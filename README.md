@@ -1,7 +1,7 @@
 # FunctionCalling-Gemini
 This is a repository that contains scripts from a Unity Project regarding FuncitonCalling with Gemini. 
 
-Here's a quick video that shows what these scripts do in Unity: [Watch the YouTube Demo](https://www.youtube.com/watch?v=J-6bymbjT_M&ab_channel=UnityGameStudio)
+Here's a quick video that shows what these scripts can execute in Unity: [Watch the YouTube Demo](https://www.youtube.com/watch?v=J-6bymbjT_M&ab_channel=UnityGameStudio)
 
 # Setup
 
@@ -11,7 +11,7 @@ Here's a quick video that shows what these scripts do in Unity: [Watch the YouTu
 
 Attach the dependencies inside the variables, it should ended up like the picture. 
 
-Inside the Object Spawner, the Object Prefab are objects inside the files that Unity can instantiate. 
+Inside the Object Spawner, the Object Prefabs are files of 3D objects inside Unity that can be instantiated. 
 
 ![](/ImagesFunctionCalling/Image2.JPG)
 
