@@ -1,7 +1,7 @@
 # FunctionCalling-Gemini
 This is a repository that contains scripts from a Unity Project regarding FuncitonCalling with Gemini. 
 
-Here's a quick video that shows what these scripts can execute in Unity: [Watch the YouTube Demo](https://www.youtube.com/watch?v=J-6bymbjT_M&ab_channel=UnityGameStudio)
+Here's a quick video that shows these scripts in Unity: [Watch the YouTube Demo](https://www.youtube.com/watch?v=UeviAFvD-S8&ab_channel=UnityGameStudio)
 
 # Setup
 
